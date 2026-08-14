@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/renanpalheta/profrenanpalheta/main/LOGO_PROF.png" width="180" alt="Prof. Renan Palheta Logo" />
   
-  # RENAN PALHETA da SILVA
+  # RENAN PALHETA DA SILVA
   
   ### 🎓 Engenheiro de Computação | Software & Dados | Docência Técnica
   
