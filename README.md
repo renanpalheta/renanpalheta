@@ -3,7 +3,7 @@
   
   # RENAN PALHETA da SILVA
   
-  ### 🎓 Engenheiro de Computação | Docente de TI | Foco em Dados & IA
+  ### 🎓 Engenheiro de Computação | Software & Dados | Docência Técnica
   
   [![Website](https://img.shields.io/badge/WEBSITE-ACESSAR_SITE-00E676?style=for-the-badge&logo=google-chrome&logoColor=black)](https://renanpalheta.github.io/profrenanpalheta/)
   [![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONECTAR-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renanpalheta/)
