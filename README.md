@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/renanpalheta/profrenanpalheta/main/LOGO_PROF.png" width="180" alt="Prof. Renan Palheta Logo" />
+  <img src="https://raw.githubusercontent.com/renanpalheta/profrenanpalheta/main/logo_prof2.svg" width="180" alt="Prof. Renan Palheta Logo" />
   
   # RENAN PALHETA DA SILVA
   
