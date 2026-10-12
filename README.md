@@ -68,6 +68,14 @@ Acredito que a evolução profissional acontece com prática, colaboração e ap
 
 <div align="center">
 
+### 💡 Propósito e tecnologia
+
+> A ciência e a tecnologia têm um enorme potencial para melhorar vidas em todo o mundo.
+
+**— Fundação Bill & Melinda Gates**
+
+<br>
+
 ### `BUILD • AUTOMATE • IMPROVE`
 
 <sub>Construindo conhecimento e evoluindo um passo de cada vez.</sub>
