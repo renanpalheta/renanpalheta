@@ -5,7 +5,11 @@
 ### `DEVOPS JÚNIOR | SRE | ENGENHEIRO DE COMPUTAÇÃO`
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=00F5A0&center=true&vCenter=true&width=435&lines=Automação+%7C+Infraestrutura+%7C+Confiabilidade;Aprendizado+contínuo+em+tecnologia" alt="Apresentação profissional" />
+  <samp>
+    Automação • Infraestrutura • Confiabilidade
+    <br>
+    Aprendizado contínuo em tecnologia
+  </samp>
 </p>
 
 <p>
