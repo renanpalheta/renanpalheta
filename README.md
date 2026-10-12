@@ -1,5 +1,4 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/renanpalheta/profrenanpalheta/main/logo(w)_prof.png" width="180" alt="Prof. Renan Palheta Logo" />
+
   
   # RENAN PALHETA DA SILVA
   
@@ -13,7 +12,7 @@
 
 ### 💡 Sobre Mim
 
-Atualmente sou **DevOps Junior - SRE**, e aqui quero compartilhar conhecimentos práticos e preparando profissionais para o mercado de trabalho. Já atuei como professor de informática para cursos e concursos, além de estudos voltados a área de programação como python, banco de dados usando MySql, sisteamas operacionais e redes de computadores. Durante essa caminhada pude desenvolver habilidades e metodologias mais direcionada ao preparo de tecnologia. Hoje, meu foco estratégico e desenvolvimento técnico estão totalmente direcionados para as áreas de **Ciência de Dados, Engenharia de Dados e Inteligência Artificial**.
+Atualmente sou **DevOps Junior - SRE**, e aqui quero compartilhar conhecimentos práticos e preparar profissionais para o mercado de trabalho. Já atuei como professor de informática para cursos e concursos, além de estudos voltados a área de programação como python, banco de dados usando MySql, sisteamas operacionais e redes de computadores. Durante essa caminhada pude desenvolver habilidades e metodologias mais direcionada ao preparo de tecnologia. Hoje, meu foco estratégico e desenvolvimento técnico estão totalmente direcionados para as áreas de **Ciência de Dados, Engenharia de Dados e Inteligência Artificial**.
 
 ---
 
