@@ -8,10 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=00F5A0&center=true&vCenter=true&width=435&lines=Automação+%7C+Infraestrutura+%7C+Confiabilidade;Aprendizado+contínuo+em+tecnologia" alt="Apresentação profissional" />
 </p>
 
-<p>
-  <a href="https://renanpalheta.github.io/profrenanpalheta/">
-    <img src="https://img.shields.io/badge/🌐_MEU_WEBSITE-0D1117?style=for-the-badge&labelColor=00F5A0&color=0D1117" alt="Website" />
-  </a>
+<p> <a href="https://renanpalheta.github.io/profrenanpalheta/"> <img src="https://img.shields.io/badge/MEU_WEBSITE-00F5A0?style=for-the-badge&logo=googlechrome&logoColor=0D1117" alt="Meu Website"> </a>
   <a href="https://www.linkedin.com/in/renan-palheta/">
     <img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00BFFF&labelColor=0D1117&color=0D1117" alt="LinkedIn" />
   </a>
