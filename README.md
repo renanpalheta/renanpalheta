@@ -1,46 +1,60 @@
+# RENAN PALHETA DA SILVA
 
-  
-  # RENAN PALHETA DA SILVA
-  
-  ### 🎓 Engenheiro de Computação | Software & Dados | Docência Técnica
-  
-  [![Website](https://img.shields.io/badge/WEBSITE-ACESSAR_SITE-00E676?style=for-the-badge&logo=google-chrome&logoColor=black)](https://renanpalheta.github.io/profrenanpalheta/)
-  [![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONECTAR-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renan-palheta/)
-</div>
+### 💻 DevOps Júnior | SRE | Engenheiro de Computação
+
+[![Website](https://img.shields.io/badge/WEBSITE-ACESSAR_SITE-00E676?style=for-the-badge\&logo=google-chrome\&logoColor=black)](https://renanpalheta.github.io/profrenanpalheta/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONECTAR-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/renan-palheta/)
 
 ---
 
-### 💡 Sobre Mim
+### 👨‍💻 Sobre Mim
 
-Atualmente sou **DevOps Junior - SRE**, e aqui quero compartilhar conhecimentos práticos e preparar profissionais para o mercado de trabalho. Já atuei como professor de informática para cursos e concursos, além de estudos voltados a área de programação como python, banco de dados usando MySql, sisteamas operacionais e redes de computadores. Durante essa caminhada pude desenvolver habilidades e metodologias mais direcionada ao preparo de tecnologia. Hoje, meu foco estratégico e desenvolvimento técnico estão totalmente direcionados para as áreas de **Ciência de Dados, Engenharia de Dados e Inteligência Artificial**.
+Sou **Engenheiro de Computação e profissional de tecnologia, atualmente atuando como DevOps Júnior — SRE**.
 
----
+Minha trajetória combina experiência em suporte técnico, docência em informática e desenvolvimento de conhecimentos em programação, bancos de dados, sistemas operacionais e redes de computadores.
 
-### 🛠️ Tecnologias & Ferramentas
+Atualmente, meu foco é evoluir em **DevOps, automação, infraestrutura e confiabilidade de sistemas**, aprofundando meus conhecimentos por meio da prática profissional, dos estudos e de projetos técnicos.
 
-* **Análise & Ciência de Dados:** Python (Pandas, NumPy), SQL (Modelagem/Consultas), Power BI e Excel.
-* **Banco de Dados em Grafos:** Neo4j & Linguagem Cypher (Graph Data Science).
-* **Desenvolvimento & Web:** HTML5, CSS3, JavaScript.
-* **Versionamento & Ferramentas:** Git, GitHub Pages e VS Code.
+Também compartilho neste perfil meus projetos, aprendizados e experiências ao longo da minha jornada na tecnologia.
 
 ---
 
-### 🎯 Foco de Atuação & Aprendizado Continuo
+### 🛠️ Tecnologias e Ferramentas
 
-* 📊 Desenvolvimento de pipelines ETL e tratamento de dados com **Python**.
-* 🕸️ Modelagem de dados complexos e relacionamentos utilizando **Neo4j/Cypher**.
-* 📈 Criação de dashboards executivos e métricas de negócio em **Power BI**.
-* 👨‍🏫 Produção de conteúdo didático e projetos práticos na área de TI e Dados.
+* **Sistemas Operacionais:** Linux (Ubuntu)
+* **Versionamento:** Git e GitHub
+* **Programação e Scripting:** Python
+* **Infraestrutura e Operações:** conceitos de DevOps, administração de ambientes e troubleshooting
+* **Ferramentas de trabalho:** VS Code, Jira e Microsoft Teams
 
 ---
 
-### 📬 Contato & Redes
+### 🎯 Foco de Aprendizado
 
-* 🌐 **Meu Site:** [renanpalheta.github.io/profrenanpalheta](https://renanpalheta.github.io/profrenanpalheta/)
-* 💼 **LinkedIn:** [Renan Palheta](https://www.linkedin.com/in/renanpalheta/)
+* ⚙️ Automação de tarefas e processos operacionais.
+* 🐧 Administração de sistemas Linux e resolução de problemas.
+* 🔄 Práticas de CI/CD e processos de entrega de software.
+* 🔐 Certificados TLS e fundamentos de segurança de infraestrutura.
+* 📈 Observabilidade, monitoramento e confiabilidade de sistemas.
+* 📚 Documentação técnica e compartilhamento de conhecimento.
+
+---
+
+### 👨‍🏫 Além da Tecnologia
+
+A experiência como professor de informática faz parte da minha trajetória profissional. Acredito na importância de aprender continuamente, documentar o conhecimento e tornar assuntos técnicos mais acessíveis.
+
+---
+
+### 📬 Contato
+
+* 🌐 **Website:** [renanpalheta.github.io/profrenanpalheta](https://renanpalheta.github.io/profrenanpalheta/)
+* 💼 **LinkedIn:** [Renan Palheta](https://www.linkedin.com/in/renan-palheta/)
 * ✉️ **E-mail:** [renanpalheta8@gmail.com](mailto:renanpalheta8@gmail.com)
 
 ---
+
 <div align="center">
-  <sub>Construído com foco em inovação, dados e educação.</sub>
+  <sub>Aprendizado contínuo, automação e confiabilidade em tecnologia.</sub>
 </div>
+
