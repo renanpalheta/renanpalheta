@@ -13,7 +13,7 @@
 
 ### 💡 Sobre Mim
 
-Atualmente atuo como **Professor de Tecnologia e Informática**, compartilhando conhecimentos práticos e preparando profissionais para o mercado de trabalho. Paralelamente à docência, meu foco estratégico e desenvolvimento técnico estão totalmente direcionados para as áreas de **Ciência de Dados, Engenharia de Dados e Inteligência Artificial**.
+Atualmente sou **DevOps Junior - SRE**, e aqui quero compartilhar conhecimentos práticos e preparando profissionais para o mercado de trabalho. Já atuei como professor de informática para cursos e concursos, além de estudos voltados a área de programação como python, banco de dados usando MySql, sisteamas operacionais e redes de computadores. Durante essa caminhada pude desenvolver habilidades e metodologias mais direcionada ao preparo de tecnologia. Hoje, meu foco estratégico e desenvolvimento técnico estão totalmente direcionados para as áreas de **Ciência de Dados, Engenharia de Dados e Inteligência Artificial**.
 
 ---
 
@@ -39,7 +39,7 @@ Atualmente atuo como **Professor de Tecnologia e Informática**, compartilhando 
 
 * 🌐 **Meu Site:** [renanpalheta.github.io/profrenanpalheta](https://renanpalheta.github.io/profrenanpalheta/)
 * 💼 **LinkedIn:** [Renan Palheta](https://www.linkedin.com/in/renanpalheta/)
-* ✉️ **E-mail:** [renanpalheta@gmail.com](mailto:renanpalheta@gmail.com)
+* ✉️ **E-mail:** [renanpalheta8@gmail.com](mailto:renanpalheta8@gmail.com)
 
 ---
 <div align="center">
